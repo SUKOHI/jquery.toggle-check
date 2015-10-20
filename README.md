@@ -1,4 +1,4 @@
-# jquery.toggle-checkbox
+# jquery.toggle-check
 A jQuery plugin to replace input checkbox and radio button with specific contents like [iCheck](http://fronteed.com/iCheck/).
 
 ![サンプル画像](http://i.imgur.com/WyqwhnQ.png) 
